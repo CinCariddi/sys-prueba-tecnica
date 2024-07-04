@@ -1,0 +1,56 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "username": "user1",
+            "name": "Cintia",
+            "lastname": "Cariddi",
+            "image": "https://www.blogdelfotografo.com/wp-content/uploads/2022/01/silueta-mujer-perfil.webp",
+            "email": "cintiacariddi@gmail.com",
+            "age": 24,
+            "about": "Soy desarrolladora Full Stack. Soy una persona muy curiosa y disfruto de crear soluciones y resolver problemas.",
+            "interests": [ "leer", "dibujar", "ver series", "pilates", "jugar videojuegos"]
+        },
+        {
+            "id": "2",
+            "username": "user2",
+            "name": "Jane",
+            "lastname": "Smith",
+            "image": "https://img.freepik.com/vector-premium/perfil-avatar-ilustraciones-vectoriales-sitio-web-redes-sociales-icono-perfil-usuario_495897-224.jpg",
+            "email": "jane.smith@example.com",
+            "age": 40,
+            "about": "Me encanta superarme y crear objetos nuevos",
+            "interests": [ "coser", "caminar", "jugar ajedrez"]
+        },
+        {
+            "id": "3",
+            "username": "user3",
+            "name": "Michael",
+            "lastname": "Johnson",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_a9I-AkqF9EXOPbRQ5LLQT8jYvQClcycWQ&s",
+            "age": 35,
+            "about": "Soy sociable y dediado a mis objetivos",
+            "interests": [ "nadar", "correr", "jugar videojuegos"]
+        },
+        {
+            "id": "4",
+            "username": "user4",
+            "name": "Emily",
+            "lastname": "Brown",
+            "email": "emily.brown@example.com",
+            "age": 34,
+            "about": "No me rindo facilmente, y busco superar mi metas.",
+            "interests": [ "filtar", "sacar fotos", "ver peliculas antiguas"]
+        },
+        {
+            "id": "5",
+            "username": "user5",
+            "name": "William",
+            "lastname": "Wilson",
+            "email": "william.wilson@example.com",
+            "age": 28,
+            "about": "Busco aprender y seguir creciendo en todos los ambitos que me proponga.",
+            "interests": [ "boxeo", "ir al gimnasio", "cantar"]
+        }
+    ]
+}
